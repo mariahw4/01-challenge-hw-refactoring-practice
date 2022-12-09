@@ -2,6 +2,8 @@
 Challenge 01 - due 12/9/22
 Completed by Mariah Wear for UCB Extension Coding Bootcamp
 
+Screenshot of project: <img src="Screenshot 2022-12-08 at 9.05.57 PM.png">
+
 link to deployed website: 
 https://mariahw4.github.io/homework-module-1-challenge/
 
@@ -31,9 +33,5 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
-
-## Mock-Up
-
-Here is the link to the deployed website: https://mariahw4.github.io/homework-module-1-challenge/
 
 
